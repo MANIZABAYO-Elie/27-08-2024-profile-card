@@ -18,6 +18,8 @@ body{
     justify-content: center;
     align-items: center;
     background-color:hsl(185, 75%, 39%) ;
+    height: 100vh;
+    
 }
  
 img{
@@ -30,9 +32,9 @@ img{
     left: 0;
     z-index: -1;
 }
+
 .bg-pattern{
      justify-content: center;
-    
 }
 
 .big-bottom{
@@ -47,9 +49,8 @@ img{
     justify-content: center; 
     align-items: center;  
     margin-top: 150px;
-    width: 25%;       
+    width: 350px;       
     margin: 0 auto; 
-    margin: 150px;
 }
 
 .container article:first-child{
